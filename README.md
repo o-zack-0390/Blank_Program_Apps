@@ -19,8 +19,7 @@ Streamlit<br><br>
 1. 実行形式「生成」を選択<br>
 2. 空欄対象プログラムを選択<br>
 3. 「空欄補充問題を生成」を押す<br>
-4. 「ファイルをダウンロード」を押すと空欄補充問題(prob.c)がダウンロードされる<br>
-<a href="https://github.com/o-zack-0390/education/blob/main/sample/7-%E6%A7%8B%E9%80%A0%E4%BD%93/prob.c">サンプル : prob.c</a><br><br>
+4. 「ファイルをダウンロード」を押すと空欄補充問題(prob.c)がダウンロードされる<br><br>
 
 <img width="941" alt="image" src="https://user-images.githubusercontent.com/116938721/223309208-61c707ff-a122-4d31-aae7-e8e59d560f0a.png">
 
@@ -31,11 +30,9 @@ Streamlit<br><br>
 <li>空欄補充問題</li>
 <li>解答者のプログラム</li>
 <li>解答者のプログラムの実行結果</li>
-<a href="https://github.com/o-zack-0390/EducationApp/tree/main/input_data">提出ファイルのサンプル</a><br><br>
-2. 「採点を開始」を押すと採点する<br><br>
-3. 「ファイルをダウンロード」を押すと採点結果がダウンロードされる<br>
-<a href="https://github.com/o-zack-0390/EducationApp/tree/main/student">ダウンロードファイルのサンプル</a>
 <br><br>
+2. 「採点を開始」を押すと採点する<br><br>
+3. 「ファイルをダウンロード」を押すと採点結果がダウンロードされる<br><br><br>
 
 
 <img width="929" alt="image" src="https://user-images.githubusercontent.com/116938721/223310411-0260d4ec-2a03-4874-9aa2-8f978e1c150c.png">
@@ -56,7 +53,7 @@ Streamlit<br><br>
 <br><br>
 
 <h3>デプロイ時のフィードバック</h3>
-「自動生成」において、最初はアップロードされた.cファイルから空欄補充問題を生成する仕様にしていたが、「スマホからやる場合は.cファイルなんて持ってないよね。予め1年分の演習問題を登録しておいて選択できる方が良くない？」という意見をもらったため選択した演習問題から生成する仕様に変更している。<br><br>
+「自動生成」において、最初はアップロードされた.cファイルから空欄補充問題を生成する仕様にしていたが、「スマホからやる場合は.cファイルなんて持ってないよね。予め1年分の演習問題を登録しておいて選択できる方が良くない？」という意見を友人からもらったため選択した演習問題から生成する仕様に変更している。<br><br>
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/116938721/227775934-b8b2eb38-f1ea-4d54-a5c5-18d972c165cc.png">
 <br><br>
 
