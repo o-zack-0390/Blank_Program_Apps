@@ -32,7 +32,7 @@ Streamlit<br><br>
 <li>解答者のプログラムの実行結果</li>
 <br><br>
 2. 「採点を開始」を押すと採点する<br><br>
-3. 「ファイルをダウンロード」を押すと採点結果がダウンロードされる<br>
+3. 「ファイルをダウンロード」を押すと採点結果がダウンロードされる<br><br><br>
 
 
 <img width="929" alt="image" src="https://user-images.githubusercontent.com/116938721/223310411-0260d4ec-2a03-4874-9aa2-8f978e1c150c.png">
