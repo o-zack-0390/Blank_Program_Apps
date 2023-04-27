@@ -1,0 +1,22 @@
+ include  stdio h  
+ include  math h  
+  
+int main void  
+  
+  
+   
+  float a  b  c  
+  
+   
+  printf    
+  printf    
+  scanf    a   
+  printf    
+  scanf    b   
+  
+   
+  c   sqrt a a   b b   
+  printf   c   
+  
+  return  
+  

@@ -1,0 +1,29 @@
+include  stdio h  
+  
+int main void   
+  
+  int a  b  c  d  e  sum  
+  float ave  
+  
+   
+  printf    
+  scanf    a   
+  printf    
+  scanf    b   
+  printf    
+  scanf    c   
+  printf    
+  scanf    d   
+  printf    
+  scanf    e   
+  
+   
+  sum   a   b   c   d   e  
+  printf   sum   
+  
+   
+  ave   sum    
+  printf   ave   
+  
+  return  
+  

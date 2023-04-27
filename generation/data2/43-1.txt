@@ -1,0 +1,25 @@
+ include  stdio h  
+  
+int main void  
+  
+  
+   
+  float S  
+  
+   
+  float a  b  
+  
+   
+  printf    
+  printf    
+  scanf    a   
+  printf    
+  scanf    b   
+  
+   
+  S    a   b    
+  
+  printf   S   
+  
+  return  
+  

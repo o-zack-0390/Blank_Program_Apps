@@ -1,0 +1,63 @@
+ include  stdio h  
+ include  math h  
+  
+int main void  
+  
+  
+   
+  float a  b  c  
+  
+   
+  float discriminant  
+  
+   
+  float kai1  kai2  
+  
+   
+  float real  imag  
+  
+   
+  printf    
+  
+  printf    
+  scanf    a   
+  
+  printf    
+  scanf    b   
+  
+  printf    
+  scanf    c   
+  
+   
+  discriminant   b   b     a   c  
+  
+   
+  if   discriminant       
+  
+     
+    kai1      b   sqrt discriminant       a    
+    kai2      b   sqrt discriminant       a   
+  
+     
+    printf   kai1  kai2   
+  
+    else if   discriminant        
+  
+     
+    kai1   kai2    b       a    
+  
+     
+    printf   kai1  kai2   
+  
+    else   
+  
+     
+    real    b    a   
+    imag   sqrt  discriminant     a   
+  
+     
+    printf   real  imag  real  imag   
+    
+  
+  return  
+  

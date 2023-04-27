@@ -1,0 +1,31 @@
+ include  stdio h  
+ include  math h  
+  
+int main void  
+  
+  
+   
+  float S  
+  
+   
+  float a  b  
+  
+   
+  float angle  
+  
+   
+  printf    
+  printf    
+  scanf    a   
+  printf    
+  scanf    b   
+  printf    
+  scanf    angle   
+  
+   
+  S     a   b   sin  M_PI   180    angle      
+  
+  printf   S   
+  
+  return  
+  

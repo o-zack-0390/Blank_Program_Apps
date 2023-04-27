@@ -1,0 +1,56 @@
+ include  stdio h  
+  
+int main void   
+  
+  int i  j  
+  
+   
+  int a 10  10   trans 10  10   
+  
+   
+  int row  column  
+  
+  printf    
+  scanf    row   
+  printf    
+  scanf    column   
+  
+   
+  printf    
+  for i i row   i   
+    for j j column   j   
+      printf   i  j   
+      scanf    a i  j    
+      
+    
+  
+   
+  printf    
+  for i i row   i   
+    for j j column   j   
+      printf   a i  j    
+      if j  column  
+          printf    
+      
+    
+  
+   
+  for i i row   i   
+    for j j column   j   
+     trans j  i  a i  j   
+      
+    
+  
+   
+  printf    
+  for i i column   i   
+    for j j row   j   
+      printf  trans i  j    
+      if j  row  
+          printf    
+      
+    
+  
+  return  
+  
+  

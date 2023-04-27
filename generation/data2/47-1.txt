@@ -1,0 +1,33 @@
+ include  stdio h  
+ include  math h  
+  
+int main void  
+  
+  
+  
+   
+  int i  
+  
+   
+  int kaijou    
+  
+   
+  int number   30  
+  
+   
+  double napier    
+  
+   
+  for i i number i     
+    kaijou    i  
+    napier      kaijou  
+    
+  
+   
+  printf   napier   
+  
+   
+  printf   M_E   
+  
+  return  
+  

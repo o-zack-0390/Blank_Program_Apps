@@ -1,0 +1,31 @@
+ include  stdio h  
+int main   
+  
+  int i  
+  
+   
+  int number  
+  
+   
+  int flag    
+  
+   
+  printf    
+  scanf    number   
+  
+   
+  for  i i number   i     
+    if  number i      
+      flag    
+      break  
+      
+    
+  
+   
+  if  flag    
+    printf  number   
+  else 
+    printf  number   
+  
+  return  
+  

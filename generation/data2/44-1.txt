@@ -1,0 +1,31 @@
+ include  stdio h  
+  
+int main void  
+  
+   
+  int base  
+  
+   
+  int exponent  i  
+  
+   
+  int answer     
+  
+   
+  printf    
+  scanf    base   
+  
+  printf    
+  scanf    exponent   
+  i   exponent  
+  
+   
+  while i    
+    answer   answer   base  
+      i  
+    
+  
+   
+  printf   base  exponent  answer   
+  
+  return  

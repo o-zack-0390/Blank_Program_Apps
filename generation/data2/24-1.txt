@@ -1,0 +1,34 @@
+ include  stdio h  
+   
+int main void  
+  
+  
+  int i  
+  
+   
+  int num  
+  
+   
+  int sum    
+  
+   
+  printf    
+  scanf    num   
+  
+   
+  if num    
+     printf    
+     printf    
+     printf    
+    
+   
+  else   
+    for i i  num   i   
+      sum   sum   i  
+      
+     
+    printf   sum   
+    
+  
+  return  
+  

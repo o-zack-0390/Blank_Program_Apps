@@ -1,0 +1,17 @@
+int main   
+  
+   
+  char moji  
+  printf    
+  scanf   moji   
+ 
+   
+  if   moji     
+    printf   moji   
+  else if moji    
+    printf   moji   
+  else 
+    printf   moji   
+ 
+  return  
+ 

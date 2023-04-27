@@ -1,0 +1,21 @@
+ include  stdio h  
+  
+int main void   
+  
+  int i  
+  
+   
+  int n  sum  
+  
+   
+  printf    
+  printf    
+  scanf    n   
+  
+   
+  sum    n    n         n         
+  
+  printf   sum   
+  
+  return  
+  

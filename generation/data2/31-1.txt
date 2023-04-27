@@ -1,0 +1,35 @@
+ include  stdio h  
+  
+int main void   
+  
+  int i  
+  int a   
+  int max  min  
+  
+   
+  printf    
+  scanf    a    
+  printf    
+  scanf    a    
+  printf    
+  scanf    a    
+  printf    
+  scanf    a    
+  printf    
+  scanf    a    
+  
+   
+  max   min   a   
+  for i i   i   
+    if  max   a i    
+      max   a i   
+    if  min   a i    
+      min   a i   
+    
+  
+   
+  printf   max   
+  printf   min   
+  
+  return  
+  

@@ -1,0 +1,52 @@
+ include  stdio h  
+  
+int main void   
+  
+  int i  j  k  term  
+  
+   
+  int a    b    c    
+  
+  printf    
+  for i i   i   
+    for j j   j   
+      printf   i  j   
+      scanf    a i  j    
+      
+    
+  
+  printf    
+  for i i   i   
+    for j j   j   
+      printf   i  j   
+      scanf    b i  j    
+      
+    
+  
+   
+  for i i   i   
+    for j j   j   
+      c i  j    a i  j    b i  j   
+  
+       
+      for i i i     
+        for j j j     
+          term    
+          for k k k    
+            term   term   a i  k  b k  j   
+          c i  j    term  
+          
+        
+  
+      
+    
+  
+  printf    
+  for i i   i   
+    for j j   j   
+      printf   i  j  c i  j    
+      
+    
+  
+  return  
+  

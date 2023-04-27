@@ -1,0 +1,21 @@
+ include  stdio h  
+   
+int main void  
+  
+  
+   
+  float area  
+  
+   
+  float length  
+  
+   
+  printf    
+  scanf    length   
+  
+   
+  area   length   length  
+  printf   area   
+  
+  return  
+  

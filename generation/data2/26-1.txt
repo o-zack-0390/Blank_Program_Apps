@@ -1,0 +1,21 @@
+ include  stdio h  
+  
+int main void   
+  
+   
+  int i  j  
+  
+   
+  for i i 10   i    
+    for j j 10   j    
+      if j   
+        printf   i   
+      if j   
+        printf   i j   
+      else 
+        printf   i j   
+      
+    
+  
+  return  
+  

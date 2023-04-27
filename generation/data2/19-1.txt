@@ -1,0 +1,28 @@
+ include  stdio h  
+  
+int main   
+  
+  
+   
+  char moji  
+  
+   
+  for moji     moji  
+    printf   moji   
+  
+  printf    
+  
+   
+  for moji     moji  
+    printf   moji   
+  
+  printf    
+  
+   
+  for moji     moji  
+    printf   moji   
+  
+  printf    
+  
+  return  
+  

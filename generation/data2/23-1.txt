@@ -1,0 +1,37 @@
+ include stdio h  
+  include string h  
+  
+int main void  
+  
+  
+  int i  j  
+  
+   
+  int num    
+  
+   
+  char moji  20   tmp 20   
+  
+   
+  printf    
+  for  i i num i      
+    printf   i   
+    scanf   moji i    
+    
+  
+  for i i num i     
+    for j j num j     
+      if strcmp moji j   moji j     
+        strcpy tmp  moji j    
+        strcpy moji j   moji j    
+        strcpy moji j   tmp   
+        
+      
+    
+  
+  printf    
+  for  i i num i    
+    printf   moji i    
+  
+  return  
+  

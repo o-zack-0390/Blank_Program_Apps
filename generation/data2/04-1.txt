@@ -1,0 +1,17 @@
+ include  stdio h  
+  
+int main void  
+  
+  int a  
+  
+  printf    
+  scanf   a   
+  
+  if  a         
+    printf   a   
+    else   
+    printf   a   
+    
+  
+  return 
+  

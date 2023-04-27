@@ -1,0 +1,19 @@
+ include  stdio h  
+  
+int main void  
+  
+  
+   
+  int year  
+  
+   
+  printf    
+  scanf    year   
+  
+   
+  year    100  
+  
+  printf   year   
+  
+  return  
+  

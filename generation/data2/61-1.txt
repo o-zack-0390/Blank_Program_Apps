@@ -1,0 +1,20 @@
+ include  stdio h  
+  
+int main void  
+  
+  
+  int i    
+  char moji 100   
+  
+   
+  printf    
+  scanf   moji   
+  
+   
+  while moji i   
+    printf    moji i      
+  
+  printf    
+  
+  return  
+  

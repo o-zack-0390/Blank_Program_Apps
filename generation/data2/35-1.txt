@@ -1,0 +1,24 @@
+ include  stdio h  
+   
+int main void  
+  
+  
+   
+  float area  
+  
+   
+  float length_yoko  
+  float length_tate  
+  
+   
+  printf    
+  scanf    length_yoko   
+  printf    
+  scanf    length_tate   
+  
+   
+  area   length_yoko   length_tate  
+  printf   area   
+  
+  return  
+  

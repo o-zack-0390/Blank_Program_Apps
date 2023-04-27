@@ -1,0 +1,33 @@
+ include  stdio h  
+  
+int main void  
+  
+  
+   
+  float length  width  height  
+  
+   
+  float volume  
+  
+   
+  float surface  
+  
+   
+  printf    
+  printf    
+  scanf    length   
+  printf    
+  scanf    width   
+  printf    
+  scanf    height   
+  
+   
+  volume   length    width   height  
+  printf   volume   
+  
+   
+  surface       length   width   width   height   height   length   
+  printf   surface   
+  
+  return  
+  

@@ -1,0 +1,27 @@
+ include  stdio h  
+  
+int main   
+  
+  
+  int i  
+  
+   
+  int num  
+  
+   
+  int fact    
+  
+   
+  printf    
+  scanf    num   
+  
+   
+  for i  i  num    i    
+    fact   fact   i  
+     
+  
+   
+  printf   num  fact   
+  
+  return  
+  

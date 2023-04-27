@@ -1,0 +1,20 @@
+ include  stdio h  
+ include  stdlib h  
+ include  time h  
+  
+int main void   
+  
+  int i  
+  double num  
+  
+   
+  srand time NULL    
+  
+   
+  for i i i     
+    num    double rand   RAND_MAX  
+    printf   num   
+    
+  
+  return  
+  

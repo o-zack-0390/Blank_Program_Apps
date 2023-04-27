@@ -1,0 +1,29 @@
+ include  stdio h  
+  
+int main void   
+  
+   
+  char ch 100   
+  
+   
+  FILE  fp  
+  
+   
+  fp   fopen    
+  
+   
+  if  fp    NULL     
+     perror    
+     return  
+    
+  
+   
+  printf    
+  fgets ch  sizeof ch   stdin   
+  
+   
+  fprintf fp    ch   
+  fclose fp   
+  
+  return  
+  

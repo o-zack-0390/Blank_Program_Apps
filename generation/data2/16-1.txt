@@ -1,0 +1,28 @@
+ include  stdio h  
+  
+int main void  
+  
+  
+  int i  j  amari  
+  
+   
+  int sum  
+  
+  for  i  i  1000    i     
+    sum    
+  
+    for  j  j i    j    
+      if   i   j      
+        sum    j  
+      
+  
+     
+    if  j    sum   
+      printf   j   
+  
+    
+  
+  printf    
+  
+  return  
+  

@@ -1,0 +1,9 @@
+moji
+for
+char
+stdio
+include
+h
+return
+main
+int

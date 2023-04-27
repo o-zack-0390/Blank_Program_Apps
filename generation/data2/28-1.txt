@@ -1,0 +1,21 @@
+ include  stdio h  
+  
+int main void   
+  
+  int i  j  
+  
+   
+  float celsius  fahrenheit  
+  
+   
+    printf    
+    scanf    celsius   
+  
+   
+  fahrenheit      celsius    32  
+  
+   
+  printf   fahrenheit   
+  
+  return  
+  

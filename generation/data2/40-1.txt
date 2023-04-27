@@ -1,0 +1,29 @@
+ include  stdio h  
+ include  math h  
+   
+int main void  
+  
+  
+   
+  float radius  
+  
+   
+  float volume  
+  
+   
+  float surface  
+  
+   
+  printf    
+  scanf    radius   
+  
+   
+  volume       M_PI   radius   radius   radius  
+  printf   volume   
+  
+   
+  surface      M_PI   radius   radius  
+  printf   surface   
+  
+  return  
+  

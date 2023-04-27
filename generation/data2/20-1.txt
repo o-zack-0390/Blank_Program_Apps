@@ -1,0 +1,22 @@
+ include  stdio h  
+  
+int main   
+  
+  
+  int i  
+  
+   
+  char moji 100   
+  
+   
+  printf    
+  scanf   moji   
+  
+   
+  for i  moji i       i   
+  
+   
+  printf  i   
+  
+  return  
+  

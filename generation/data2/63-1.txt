@@ -1,0 +1,26 @@
+ include  stdio h  
+int main void    
+  
+   
+  int i  n  
+  
+  float num 100   
+  float sum  ave  
+  
+  printf    
+  scanf   n   
+  
+   
+  sum   0  
+  for  i i n   i     
+    printf  i   
+    scanf   num i    
+    sum    num i   
+    
+  
+   
+  ave   sum n  
+  printf   ave   
+  
+  return  
+  

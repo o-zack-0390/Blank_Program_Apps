@@ -1,0 +1,37 @@
+ include  stdio h  
+int main   
+  
+  int i  j  
+  
+   
+  int num1  num2  
+  
+   
+  int flag  
+  
+   
+  printf    
+  printf    
+  scanf    num1   
+  printf    
+  scanf    num2   
+  
+   
+  printf   num1  num2   
+  for  i num1 i  num2   i     
+    flag    
+    for  j j i   j    
+      if  i j      
+        flag    
+        break  
+        
+      
+     
+    if  flag     i    
+      printf   i   
+    
+  
+  printf    
+  
+  return  
+  

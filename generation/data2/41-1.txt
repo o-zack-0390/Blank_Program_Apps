@@ -1,0 +1,29 @@
+ include  stdio h  
+  
+int main void  
+  
+  
+   
+  float ippen  
+  
+   
+  float volume  
+  
+   
+  float surface  
+  
+   
+  printf    
+  printf    
+  scanf    ippen   
+  
+   
+  volume   ippen   ippen   ippen  
+  printf   volume   
+  
+   
+  surface       ippen   ippen   
+  printf   surface   
+  
+  return  
+  

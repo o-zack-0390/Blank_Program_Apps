@@ -1,0 +1,31 @@
+ include  stdio h  
+  
+int main void   
+  
+  int i  j  
+  
+   
+  int a    
+  
+   
+  int det    
+  
+  printf    
+  for i i   i   
+    for j j   j   
+      printf   i  j   
+      scanf    a i  j    
+      
+    
+  
+   
+  for i i   i   
+    det   det   a  i      a   i     a   i     a   i     a   i      
+    
+  
+   
+  printf    
+  printf   det   
+  
+  return  
+  

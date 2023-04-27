@@ -1,0 +1,23 @@
+ include  stdio h  
+  
+int main   
+  
+  int i  
+  
+   
+  int num  
+  
+   
+  printf    
+  scanf   num   
+  
+   
+  printf   num   
+  for  i  i  num    i    
+    if  num i      
+      printf   i   
+    
+  printf    
+  
+  return  
+  

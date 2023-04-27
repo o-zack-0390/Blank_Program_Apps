@@ -1,0 +1,24 @@
+ include  stdio h  
+int main   
+  
+  int i  j  
+  
+   
+  int flag  
+  
+   
+  for  i i  1000   i     
+    flag    
+    for  j j i   j    
+      if  i j      
+        flag    
+        break  
+        
+      
+     
+    if  flag    
+      printf   i   
+    
+  
+  return  
+  

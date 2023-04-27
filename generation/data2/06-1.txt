@@ -1,0 +1,25 @@
+int main void  
+  
+  
+  float a  b  c  
+  
+  printf    
+  
+   
+  printf    
+  scanf    a   
+  printf    
+  scanf    b   
+  printf    
+  scanf    c   
+  
+   
+  if a b    a c  
+    printf   a   
+  if b a    b c  
+    printf   b   
+  if c a    c b  
+    printf   c   
+  
+  return  
+  

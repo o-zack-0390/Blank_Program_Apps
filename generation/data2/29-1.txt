@@ -1,0 +1,21 @@
+ include  stdio h  
+  
+int main void   
+  
+  float number  amount  rate  percent  
+  
+   
+    printf    
+    scanf    number   
+    printf    
+    scanf    amount   
+  
+   
+  rate   number   amount  
+  printf   rate   
+  
+   
+  percent   rate   100  
+  printf   percent   
+  
+  return  

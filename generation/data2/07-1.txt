@@ -1,0 +1,42 @@
+ include  stdio h  
+  
+int main void  
+  
+  
+  int i  
+  
+   
+  int n  
+  
+   
+  int num  
+  
+   
+  int big  
+  
+   
+  printf    
+  scanf    n   
+  
+   
+  printf    
+  scanf    num   
+  
+   
+  big   num  
+  
+  for  i i  n   i    
+     
+    printf   i   
+    scanf    num   
+  
+     
+    if num big  
+      big   num  
+    
+  
+   
+  printf   big   
+  
+  return  
+  

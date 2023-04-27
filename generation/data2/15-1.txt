@@ -1,0 +1,29 @@
+ include  stdio h  
+  
+int main void  
+  
+  
+  int i  amari  
+  
+   
+  int num  
+  
+   
+  int sum    
+  
+   
+  printf    
+  scanf    num   
+  
+  for  i  i num    i    
+    if   num   i      
+      sum    i  
+    
+  
+  if  num    sum   
+    printf   num   
+  else 
+    printf   num   
+  
+  return  
+  

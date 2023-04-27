@@ -1,0 +1,41 @@
+ include  stdio h  
+  
+int main void   
+  
+  int i  j  
+  
+   
+  int a    b    c    
+  
+  printf    
+  for i i   i   
+    for j j   j   
+      printf   i  j   
+      scanf    a i  j    
+      
+    
+  
+  printf    
+  for i i   i   
+    for j j   j   
+      printf   i  j   
+      scanf    b i  j    
+      
+    
+  
+   
+  for i i   i   
+    for j j   j   
+      c i  j    a i  j    b i  j   
+      
+    
+  
+  printf    
+  for i i   i   
+    for j j   j   
+      printf   i  j  c i  j    
+      
+    
+  
+  return  
+  

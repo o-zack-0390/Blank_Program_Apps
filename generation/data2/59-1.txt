@@ -1,0 +1,25 @@
+ include  stdio h  
+  
+int main void  
+  
+   
+  int binary  
+  int decimal    
+  int base    
+  
+   
+  printf    
+  scanf    binary   
+  
+   
+  while binary   
+    decimal   decimal     binary   10     base  
+    binary   binary   10  
+    base   base    
+    
+  
+   
+  printf   decimal   
+  
+  return  
+  

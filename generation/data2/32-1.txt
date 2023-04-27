@@ -1,0 +1,19 @@
+ include  stdio h  
+  
+int main void   
+  
+  float length_cm  length_in  
+  
+   
+  printf    
+  scanf    length_cm   
+  
+   
+  length_in   length_cm   3937007874  
+  
+   
+  printf   length_cm   
+  printf   length_in   
+  
+  return  
+  

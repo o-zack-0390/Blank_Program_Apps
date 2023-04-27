@@ -1,0 +1,27 @@
+ include  stdio h  
+  
+int main void   
+  
+   
+  char ch  
+  
+   
+  FILE  fp  
+  
+   
+  fp   fopen __FILE__     
+  
+   
+  if  fp    NULL     
+     perror    
+     return  
+    
+  
+   
+  printf    
+  while    ch   fgetc fp       EOF     
+    printf   ch   
+    
+  
+  return  
+  

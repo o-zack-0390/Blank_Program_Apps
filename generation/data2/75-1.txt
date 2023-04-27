@@ -1,0 +1,17 @@
+ include  stdio h  
+ include  unistd h  
+  
+int main void  
+  
+  
+   
+  char hostname 128   
+  
+   
+  gethostname hostname  sizeof hostname    
+  
+   
+  printf   hostname   
+  
+  return  
+  
