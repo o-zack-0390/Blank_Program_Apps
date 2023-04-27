@@ -30,11 +30,9 @@ Streamlit<br><br>
 <li>空欄補充問題</li>
 <li>解答者のプログラム</li>
 <li>解答者のプログラムの実行結果</li>
-<a href="https://github.com/o-zack-0390/EducationApp/tree/main/input_data">提出ファイルのサンプル</a><br><br>
+<br><br>
 2. 「採点を開始」を押すと採点する<br><br>
 3. 「ファイルをダウンロード」を押すと採点結果がダウンロードされる<br>
-<a href="https://github.com/o-zack-0390/EducationApp/tree/main/student">ダウンロードファイルのサンプル</a>
-<br><br>
 
 
 <img width="929" alt="image" src="https://user-images.githubusercontent.com/116938721/223310411-0260d4ec-2a03-4874-9aa2-8f978e1c150c.png">
