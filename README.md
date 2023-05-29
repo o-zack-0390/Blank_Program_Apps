@@ -5,10 +5,7 @@ URL : <a href="https://o-zack-0390-blank-program-apps-main-ndoeay.streamlit.app/
 <h3>概要</h3>
 プログラミング演習問題の一つである「空欄補充問題」を自動生成・自動採点するアプリ<br><br>
 
-<img width="947" alt="image" src="https://user-images.githubusercontent.com/116938721/223309010-fae01554-00fd-46ad-ade9-1db9d122d63d.png">
-
 <img width="983" alt="image" src="https://github.com/o-zack-0390/Blank_Program_Apps/assets/116938721/7fb164dd-7bd6-49f3-a481-8a2055ccbed9">
-
 
 <h3>開発言語</h3>
 python3<br><br>
