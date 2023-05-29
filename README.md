@@ -7,6 +7,9 @@ URL : <a href="https://o-zack-0390-blank-program-apps-main-ndoeay.streamlit.app/
 
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/116938721/223309010-fae01554-00fd-46ad-ade9-1db9d122d63d.png">
 
+<img width="983" alt="image" src="https://github.com/o-zack-0390/Blank_Program_Apps/assets/116938721/7fb164dd-7bd6-49f3-a481-8a2055ccbed9">
+
+
 <h3>開発言語</h3>
 python3<br><br>
 
@@ -61,7 +64,8 @@ Streamlit<br><br>
 
 
 <h3>使用教材</h3>
-以下のサイトで公開されているプログラムを対象としました。<br>
+公開アプリでは以下のサイトで公開されているプログラムを対象としました。<br>
 ・<a href="https://webkaru.net/clang/program-examples/">サンプルプログラム集</a>
 <br><br>
-問題文,解答の説明などは上記のサイトに記載されているため↑にアクセスをお願いします。
+問題文,解答の説明などは上記のサイトに記載されているため↑にアクセスをお願いします。<br><br>
+大学の演習問題は著作権があるのでプログラムを全て置き換えています。
