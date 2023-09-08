@@ -60,7 +60,7 @@ Streamlit<br><br>
 
 <h3>使用教材</h3>
 公開アプリでは以下のサイトで公開されているプログラムを対象としました。<br>
-・<a href="https://webkaru.net/clang/program-examples/">サンプルプログラム集</a>
+・<a href="https://webkaru.net/clang/program-examples/">C言語入門　サンプルプログラム集</a>
 <br><br>
 問題文,解答の説明などは上記のサイトに記載されているため↑にアクセスをお願いします。<br><br>
 大学の演習問題は著作権があるのでプログラムを全て置き換えています。
