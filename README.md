@@ -1,8 +1,11 @@
 # 空欄補充型プログラミング演習問題アプリ
 
+URL : 
 <a href="https://blankprogramapps-zywfpvpqet3jxpc4eyzs7a.streamlit.app/">
   空欄補充型プログラミング演習問題アプリ
 </a>
+<br>
+「😴」が表示されてる場合は「Yes, get this app back up!」を押して起動してください。(1分程かかります)
 
 <h3>概要</h3>
 プログラミング演習問題の一つである「空欄補充問題」を自動生成・自動採点するアプリ<br><br>
