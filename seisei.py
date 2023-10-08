@@ -19,29 +19,29 @@ def seisei():
                          "61.c", "62.c", "63.c", "64.c", "65.c", "66.c", "67.c", "68.c", "69.c", "70.c", \
                          "71.c", "72.c", "73.c", "74.c", "75.c"])
 
-  path1 = "/app/blank_program_apps/generation/result/tf-idf1.txt"
-  path2 = "/app/blank_program_apps/generation/result/tf-idf2.txt"
-  path3 = "/app/blank_program_apps/generation/result/generate_note.txt"
-  path4 = "/app/blank_program_apps/generation/result/uid.txt"
+  path1 = "/mount/src/blank_program_apps/generation/result/tf-idf1.txt"
+  path2 = "/mount/src/blank_program_apps/generation/result/tf-idf2.txt"
+  path3 = "/mount/src/blank_program_apps/generation/result/generate_note.txt"
+  path4 = "/mount/src/blank_program_apps/generation/result/uid.txt"
 
   if st.button("空欄補充問題を生成"):
 
     write_tfidf.write_tfidf(path1, path2, path3, path4, option + "\n")
     sort_tfidf.sort_tfidf(path3)
 
-    path1 = "/app/blank_program_apps/generation/result/bsg1.txt"
-    path2 = "/app/blank_program_apps/generation/result/bsg2.txt"
-    path3 = "/app/blank_program_apps/generation/result/generate_note.txt"
+    path1 = "/mount/src/blank_program_apps/generation/result/bsg1.txt"
+    path2 = "/mount/src/blank_program_apps/generation/result/bsg2.txt"
+    path3 = "/mount/src/blank_program_apps/generation/result/generate_note.txt"
 
     bsg.bsg(path1, path2, path3)
 
-    path1 = "/app/blank_program_apps/generation/result/generate_note.txt"
+    path1 = "/mount/src/blank_program_apps/generation/result/generate_note.txt"
     print_tfidf.print_tfidf(path1)
 
-    path1 = "/app/blank_program_apps/generation/result/bsg1.txt"
-    path2 = "/app/blank_program_apps/generation/result/bsg2.txt"
-    path3 = "/app/blank_program_apps/generation/result/prob.c"
-    path4 = "/app/blank_program_apps/generation/data/" + option
+    path1 = "/mount/src/blank_program_apps/generation/result/bsg1.txt"
+    path2 = "/mount/src/blank_program_apps/generation/result/bsg2.txt"
+    path3 = "/mount/src/blank_program_apps/generation/result/prob.c"
+    path4 = "/mount/src/blank_program_apps/generation/data/" + option
 
     generate.generate(path4, path3, path1, path2)
 
