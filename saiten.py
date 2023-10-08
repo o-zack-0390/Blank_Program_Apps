@@ -32,13 +32,13 @@ def saiten():
 			decode_student_txt()
 			check_student_num()
 			
-			path1   = "/app/educationapp/marking/input/c_file"
-			path2   = "/app/educationapp/marking/input/txt_file"
-			path3   = "/app/educationapp/marking/output"
+			path1   = "/mount/src/educationapp/marking/input/c_file"
+			path2   = "/mount/src/educationapp/marking/input/txt_file"
+			path3   = "/mount/src/educationapp/marking/output"
 
-			ans_c   = "/app/educationapp/marking/ans.c"
-			ans_txt = "/app/educationapp/marking/ans.txt"
-			prob_c  = "/app/educationapp/marking/prob.c"
+			ans_c   = "/mount/src/educationapp/marking/ans.c"
+			ans_txt = "/mount/src/educationapp/marking/ans.txt"
+			prob_c  = "/mount/src/educationapp/marking/prob.c"
 			
 			ans_sum_lines = None
 
@@ -76,10 +76,10 @@ def saiten():
 # ディレクトリを作成
 def create_dir():
 
-	input    = "/app/educationapp/marking/input"
-	c_file   = "/app/educationapp/marking/input/c_file"
-	txt_file = "/app/educationapp/marking/input/txt_file"
-	output   = "/app/educationapp/marking/output"
+	input    = "/mount/src/educationapp/marking/input"
+	c_file   = "/mount/src/educationapp/marking/input/c_file"
+	txt_file = "/mount/src/educationapp/marking/input/txt_file"
+	output   = "/mount/src/educationapp/marking/output"
 
 	if os.path.exists(input):
 		shutil.rmtree(input)
@@ -108,7 +108,7 @@ def decode_ans_c():
 		st.write("エラー ans.c以外のファイルがアップロードされています")
 		exit()
 
-	f = open("/app/educationapp/marking/ans.c", 'w', encoding="utf-8", newline='')
+	f = open("/mount/src/educationapp/marking/ans.c", 'w', encoding="utf-8", newline='')
 	f.write(upload_file1.getvalue().decode('utf-8'))
 	f.close()
 
@@ -121,7 +121,7 @@ def decode_ans_txt():
 		st.write("エラー ans.txt以外のファイルがアップロードされています")
 		exit()
 
-	f = open("/app/educationapp/marking/ans.txt", 'w', encoding="utf-8", newline='')
+	f = open("/mount/src/educationapp/marking/ans.txt", 'w', encoding="utf-8", newline='')
 	f.write(upload_file2.getvalue().decode('utf-8'))
 	f.close()
 
@@ -133,7 +133,7 @@ def decode_prob_c():
 		st.write("エラー prob.c以外のファイルがアップロードされています")
 		exit()
 
-	f = open("/app/educationapp/marking/prob.c", 'w', encoding="utf-8", newline='')
+	f = open("/mount/src/educationapp/marking/prob.c", 'w', encoding="utf-8", newline='')
 	f.write(upload_file3.getvalue().decode('utf-8'))
 	f.close()
 
@@ -148,9 +148,9 @@ def decode_student_c():
 		exit()
 
 	with zipfile.ZipFile(upload_file4, 'r') as inputFile:
-		inputFile.extractall("/app/educationapp/marking/input/c_file")
+		inputFile.extractall("/mount/src/educationapp/marking/input/c_file")
 
-	file1_list  = os.listdir("/app/educationapp/marking/input/c_file")
+	file1_list  = os.listdir("/mount/src/educationapp/marking/input/c_file")
 	out1        = re.compile(r'^(100)')
 	out2        = re.compile(r'.c')
 
@@ -175,9 +175,9 @@ def decode_student_txt():
 		exit()
 
 	with zipfile.ZipFile(upload_file5, 'r') as inputFile:
-		inputFile.extractall("/app/educationapp/marking/input/txt_file")
+		inputFile.extractall("/mount/src/educationapp/marking/input/txt_file")
 
-	file2_list = os.listdir("/app/educationapp/marking/input/txt_file")
+	file2_list = os.listdir("/mount/src/educationapp/marking/input/txt_file")
 	out1       = re.compile(r'^(100)')
 	out2       = re.compile(r'.txt')
 
@@ -462,12 +462,12 @@ def create_zip(path3):
 # 不要なファイルを削除
 def remove_file():
 
-	shutil.rmtree("/app/educationapp/marking/input/c_file")
-	shutil.rmtree("/app/educationapp/marking/input/txt_file")
-	shutil.rmtree("/app/educationapp/marking/output")
+	shutil.rmtree("/mount/src/educationapp/marking/input/c_file")
+	shutil.rmtree("/mount/src/educationapp/marking/input/txt_file")
+	shutil.rmtree("/mount/src/educationapp/marking/output")
 
-	os.remove("/app/educationapp/marking/ans.c")
-	os.remove("/app/educationapp/marking/prob.c")
+	os.remove("/mount/src/educationapp/marking/ans.c")
+	os.remove("/mount/src/educationapp/marking/prob.c")
 
 
 
