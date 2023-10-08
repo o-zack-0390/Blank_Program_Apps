@@ -1,6 +1,4 @@
 # 空欄補充型プログラミング演習問題アプリ
-URL : <a href="https://o-zack-0390-blank-program-apps-main-ndoeay.streamlit.app/">空欄型プログラミング演習問題アプリ</a><br>
-「😴」が表示されてる場合は「Yes, get this app back up!」を押して起動してください。(1分程かかります)
 
 <h3>概要</h3>
 プログラミング演習問題の一つである「空欄補充問題」を自動生成・自動採点するアプリ<br><br>
@@ -62,7 +60,7 @@ Streamlit<br><br>
 
 <h3>使用教材</h3>
 公開アプリでは以下のサイトで公開されているプログラムを対象としました。<br>
-・<a href="https://webkaru.net/clang/program-examples/">サンプルプログラム集</a>
+・<a href="https://webkaru.net/clang/program-examples/">C言語入門　サンプルプログラム集</a>
 <br><br>
 問題文,解答の説明などは上記のサイトに記載されているため↑にアクセスをお願いします。<br><br>
 大学の演習問題は著作権があるのでプログラムを全て置き換えています。
