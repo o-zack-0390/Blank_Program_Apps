@@ -57,6 +57,9 @@ Streamlit<br><br>
 
 <h3>開発秘話</h3>
 不適切な空欄が生成されないようにする方法を模索するのに3ヶ月掛かっており、その結果TF-IDF,正規表現,ランダム選択法を組み合わせる方法を思いついた。
+<img width="965" alt="image" src="https://github.com/o-zack-0390/Blank_Program_Apps/assets/116938721/14d81921-c90d-4bc6-a356-848ee40c6cf7">
+<br>
+<img width="975" alt="image" src="https://github.com/o-zack-0390/Blank_Program_Apps/assets/116938721/0fa98192-9311-4296-9f5e-ee9e43469efb">
 <br><br>
 
 <h3>デプロイ時のフィードバック</h3>
